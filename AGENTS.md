@@ -1,5 +1,6 @@
 # AGENTS.md
 
+
 This project uses a Python environment for development and tests.
 
 ## Setting up a development environment
